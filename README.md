@@ -1,5 +1,5 @@
 # # AfricaiOS
-#### The is a SwiftUi learning project.
+#### This is a SwiftUi learning project.
 
  Home View  | Animal Details View | Video List View
 -------------  | -------------  | -------------
